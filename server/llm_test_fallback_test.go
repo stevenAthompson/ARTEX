@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/Autumn-27/artex/agent"
-	"github.com/Autumn-27/artex/db"
+	"github.com/stevenAthompson/ARTEX/agent"
+	"github.com/stevenAthompson/ARTEX/db"
 )
 
 // The llm/test stored-key fallback must send the same header bytes the runtime

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Autumn-27/artex/db"
+	"github.com/stevenAthompson/ARTEX/db"
 )
 
 // The health columns must reflect the outcome of every connect attempt and
