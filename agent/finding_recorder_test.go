@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Autumn-27/artex/db"
-	"github.com/Autumn-27/artex/evidence"
+	"github.com/stevenAthompson/ARTEX/db"
+	"github.com/stevenAthompson/ARTEX/evidence"
 )
 
 type failingFindingRecorder struct{}

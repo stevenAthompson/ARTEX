@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Autumn-27/artex/selfupdate"
+	"github.com/stevenAthompson/ARTEX/selfupdate"
 )
 
 // HTTP surface for one-click updates from the UI. The actual

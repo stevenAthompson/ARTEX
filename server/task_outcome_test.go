@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/Autumn-27/artex/db"
+	"github.com/stevenAthompson/ARTEX/db"
 )
 
 func TestTaskOutcomeCard(t *testing.T) {
